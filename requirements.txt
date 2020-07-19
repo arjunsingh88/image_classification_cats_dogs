@@ -1,0 +1,15 @@
+# H:\Desktop\Classification model\dashap.py: 3
+numpy == 1.17.3
+
+# H:\Desktop\Classification model\dashap.py: 1
+pandas == 1.0.5
+
+# H:\Desktop\Classification model\dashap.py: 2
+streamlit == 0.62.1
+
+# H:\Desktop\Classification model\dashap.py: 4,8
+tensorflow-cpu == 2.0.1
+
+# H:\Desktop\Classification model\dashap.py: 6
+Pillow == 7.0.0
+
