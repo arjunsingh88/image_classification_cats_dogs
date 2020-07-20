@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run dashap.py
+web: sh setup.sh && streamlit run cats_vs_dogs_classification.py
