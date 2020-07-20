@@ -7,4 +7,4 @@
 * ### Model 2: Tranfer Learning using VGG16 as base model and using it for this problem
 
 ## Streamlit app
-[`classifier`](https://imgclassification.herokuapp.com/)
+[`website`](https://imgclassification.herokuapp.com/)
