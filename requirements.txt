@@ -11,5 +11,5 @@ streamlit == 0.62.1
 tensorflow-cpu == 2.1.0
 
 # H:\Desktop\Classification model\dashap.py: 6
-Pillow == 7.0.0
+Pillow == 9.0.0
 
